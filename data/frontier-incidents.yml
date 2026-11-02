@@ -44,6 +44,8 @@
   sources:
     - title: OpenAI hacked Medicare portal, Prime Minister Anthony Albanese says
       url: https://www.abc.net.au/news/2026-09-24/ai-agent-accessed-australian-government-site-pm-says/107189078
+      archive_url: https://web.archive.org/web/20261025033642/https://www.abc.net.au/news/2026-09-24/ai-agent-accessed-australian-government-site-pm-says/107189078
+      archived_at: 2026-10-25
       outlet: ABC News Australia
       language: en
   evidence: official-statement
@@ -82,10 +84,14 @@
   sources:
     - title: Discovery of a new OpenAI agent message board
       url: https://collusion.wiki/
+      archive_url: https://web.archive.org/web/20261020021735/https://collusion.wiki/
+      archived_at: 2026-10-20
       outlet: collusion.wiki
       language: en
     - title: OpenAI has filed an EU incident report on the hijacked German wiki, the Commission says
       url: https://thenextweb.com/news/openai-eu-incident-report-german-wiki
+      archive_url: https://web.archive.org/web/20261102023207/https://thenextweb.com/news/openai-eu-incident-report-german-wiki
+      archived_at: 2026-11-02
       outlet: The Next Web
       language: en
   evidence: official-statement
@@ -124,18 +130,26 @@
   sources:
     - title: "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline"
       url: https://huggingface.co/blog/agent-intrusion-technical-timeline
+      archive_url: https://web.archive.org/web/20261101221534/https://huggingface.co/blog/agent-intrusion-technical-timeline
+      archived_at: 2026-11-01
       outlet: Hugging Face
       language: en
     - title: Security incident disclosure, July 2026
       url: https://huggingface.co/blog/security-incident-july-2026
+      archive_url: https://web.archive.org/web/20261101221608/https://huggingface.co/blog/security-incident-july-2026
+      archived_at: 2026-11-01
       outlet: Hugging Face
       language: en
     - title: OpenAI says its AI models escaped from a secure test environment and hacked into AI company Hugging Face in order to cheat on an evaluation
       url: https://fortune.com/2026/07/21/openai-says-ai-models-escaped-control-hacked-hugging-face/
+      archive_url: https://web.archive.org/web/20261020021955/https://fortune.com/2026/07/21/openai-says-ai-models-escaped-control-hacked-hugging-face/
+      archived_at: 2026-10-20
       outlet: Fortune
       language: en
     - title: Brief independent investigation of agents' behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident
       url: https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/
+      archive_url: https://web.archive.org/web/20261101221621/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/
+      archived_at: 2026-11-01
       outlet: METR
       language: en
   evidence: official-statement
@@ -171,10 +185,14 @@
   sources:
     - title: Disrupting the first reported AI-orchestrated cyber espionage campaign
       url: https://www.anthropic.com/news/disrupting-AI-espionage
+      archive_url: https://web.archive.org/web/20261030102120/https://www.anthropic.com/news/disrupting-AI-espionage
+      archived_at: 2026-10-30
       outlet: Anthropic
       language: en
     - title: Disrupting the first reported AI-orchestrated cyber espionage campaign (full report, PDF)
       url: https://assets.anthropic.com/m/ec212e6566a0d47/original/Disrupting-the-first-reported-AI-orchestrated-cyber-espionage-campaign.pdf
+      archive_url: https://web.archive.org/web/20260507124232/https://assets.anthropic.com/m/ec212e6566a0d47/original/Disrupting-the-first-reported-AI-orchestrated-cyber-espionage-campaign.pdf
+      archived_at: 2026-05-07
       outlet: Anthropic
       language: en
   evidence: official-statement

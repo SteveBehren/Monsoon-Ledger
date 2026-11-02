@@ -70,9 +70,13 @@ perbandingan_eu_id: >
 sources:
   - title: Expanded ASEAN Guide on AI Governance and Ethics, Generative AI
     url: https://asean.org/wp-content/uploads/2025/01/Expanded-ASEAN-Guide-on-AI-Governance-and-Ethics-Generative-AI.pdf
+    archive_url: https://web.archive.org/web/20260930003935/https://asean.org/wp-content/uploads/2025/01/Expanded-ASEAN-Guide-on-AI-Governance-and-Ethics-Generative-AI.pdf
+    archived_at: 2026-09-30
     outlet: ASEAN
     language: en
   - title: ASEAN Working Group on AI Governance (WG-AI)
     url: https://www.imda.gov.sg/about-imda/international-relations/asean-working-group-on-ai-governance
+    archive_url: https://web.archive.org/web/20260709021201/https://www.imda.gov.sg/about-imda/international-relations/asean-working-group-on-ai-governance
+    archived_at: 2026-07-09
     outlet: Infocomm Media Development Authority (IMDA), Singapore
     language: en

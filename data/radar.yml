@@ -1,7 +1,67 @@
 # Written by npm run scan. Leads are unreviewed: they are not entries and not verified.
 # To review one, set status to reviewed, promoted or dismissed. Promote by writing an entry.
-updated: "2026-10-29T02:26:42Z"
+updated: "2026-11-02T02:29:54Z"
 leads:
+  - id: d1c3a1f510
+    found: "2026-11-02"
+    published: "2026-10-30"
+    title: AI Bikin Penipuan Digital Makin Sulit Dikenali, Komdigi Ingatkan Bahaya Deepfake
+    url: https://news.google.com/rss/articles/CBMipgFBVV95cUxObi0zX0kwZXV3blN5UkY4ZzVvYzRJTWJZaUhXeGRIQUNFZ2hLTnk5OUJTMWkzNmk1ejJPb2xZMzhmOXgtM3huNGI0ZEt4NERKOE5ETnZ6VEdidmMySE1CcDQ3YnI4OWFwTE01MmJOUjk4Ml93SkROYWJNY3RBWjI1Yjl2ZUV5YkF6cWhqNDlLN3BkTzV6bW0ya2dyRmVHNHhJNmtSa1d3?oc=5
+    outlet: Niaga.Asia
+    country: ID
+    language: id
+    source: gn-id-komdigi-ai
+    score: 5
+    terms:
+      - deepfake
+      - AI
+      - komdigi
+    status: new
+  - id: 2bf3567b3d
+    found: "2026-11-02"
+    published: "2026-10-30"
+    title: Malaysia targets early 2027 for introduction of AI governance bill
+    url: https://news.google.com/rss/articles/CBMirgFBVV95cUxPSzFpdXRGTlR4dXVqbkJkSC1yNGw1bjNpcXRUU3lwV2pPWTlzbnFYVXk1VjRVd2t5bzR3RXJ6UzgzeENDRmxKdFEyQTlYT2oza2d0NEp6Zi1tV2xldWRqX282WTl0QXZwLWRRY3JJc2cxZVljWUkxLUNZVU5hMEFuc0UxSmltNTRhQXozMVd6a3ZrYzFRR016bjcyQWw1YXg5MEdRMEg5QnRDMjg1RXfSAVpBVV95cUxQNnhOa0tvOVhabUZUbHZhcXZBVm1jVlRucEJwVTJWTlRZdkVfb3NtWEFGT2w0N3E3RktEUW44TTljUDRCRGZlVzV2V2wxQl9YOEowbDUzdVJveFE?oc=5
+    outlet: MLex
+    country: MY
+    language: en
+    source: gn-my-ai
+    score: 4
+    terms:
+      - AI
+      - bill
+      - governance
+    status: new
+  - id: 83b1999471
+    found: "2026-11-02"
+    published: "2026-10-29"
+    title: AI Governance Bill expected to be tabled in Dewan Rakyat early next year
+    url: https://news.google.com/rss/articles/CBMie0FVX3lxTE5SLTItV19EUS05ZTNONzk0RG8waWhHTkt4aDBNV211RVFIamdTREx6SkVYa0MxSEJjTnFCQmpXcl9wZ0txMWV3X1N0aWNEaThwZ2JWaFMtdF96a3NrSHlSbjFUU1diS09Ma1puOHVxRURQZmoxdTh3RDRfTQ?oc=5
+    outlet: The Sun Malaysia
+    country: MY
+    language: en
+    source: gn-en-indonesia-ai
+    score: 4
+    terms:
+      - AI
+      - bill
+      - governance
+    status: new
+  - id: dc38ce28c8
+    found: "2026-11-02"
+    published: "2026-10-29"
+    title: Digital Ministry targets early 2027 tabling for AI Governance Bill, outlines robust legal safeguards
+    url: https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSVJHYmRGX3R3RjNBSXFGN2lZY0prbnZyWHpyaU95WVVWaGE5WGtwbExmZ3RjdGo4NEFaN25XNk4tMjdDS0YyYTFzNWtqT1RQcXNFYXQ2TXQyZWp5Y1l2YWFZX3VEcnlORTlaeWZNdlZKNUJQYk1IZVktT1RSbkMwSjB1SVVNdnVxQl91NEdobGt1TGk2U3hDbV96LU9KTjRWZmtQdTZKbDZadVllRTM2RlRZM1pzSXNTQzRyUlNFc0VaOFpuZG82Q011VGVUcXVJSWVVY2c3Nm9leVU?oc=5
+    outlet: The Malaysian Reserve
+    country: MY
+    language: en
+    source: gn-my-ai
+    score: 4
+    terms:
+      - AI
+      - bill
+      - governance
+    status: new
   - id: de8190b8c9
     found: "2026-10-29"
     published: "2026-10-26"
