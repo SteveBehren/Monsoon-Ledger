@@ -1,7 +1,110 @@
 # Written by npm run scan. Leads are unreviewed: they are not entries and not verified.
 # To review one, set status to reviewed, promoted or dismissed. Promote by writing an entry.
-updated: "2026-11-02T02:29:54Z"
+updated: "2026-11-05T03:29:09Z"
 leads:
+  - id: 23759911fa
+    found: "2026-11-05"
+    published: "2026-10-30"
+    title: "Malaysia´s AI Bill: Governance before regulation"
+    url: https://news.google.com/rss/articles/CBMifkFVX3lxTE9qYXlZdk5GcTRoMEROTXBmazF2ZnQyNzNoT0QtT1UwYUtXU1kyMW53dGllYzhJbm1ibjlWMXFySEZ4QnFfRUxnMzd4TzFxeDVIb191LXNOTHNma0Zmc1o4VnlFdm90VDdURVo0WE9fUlJkR0VlcXU5ZGFTVHBpZw?oc=5
+    outlet: RÖDL
+    country: MY
+    language: en
+    source: gn-my-ai
+    score: 6
+    terms:
+      - AI
+      - regulation
+      - bill
+      - governance
+    status: new
+  - id: 41691e7400
+    found: "2026-11-05"
+    published: "2026-10-21"
+    title: Hadir di Bali, Global Ethics Forum 2026 Bahas Dampak Nyata Kecerdasan Artifisial
+    url: https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY2R4YnotMFVaTnphakJRWjNJNW1zbnNKNll2Z3lWdG1nYmMyUUR2SzhsY3ZFYV82Q3B0clBvcjVrOHRUODZULUxGSEdORVpXWnFBNkZtODZGNFdsRHNlOFRVeHVQZnRYOGRGZ0FOUWN6b0dZOU9CazVjb1VTNExZVEUxSXl3eGRLc0hkb20tZlQ3TjZmVEwzNzVmeUJqVy1laWoyelRJUERla0NzWkN4YW5wa2xRU0k1S2RlZmRoT0o?oc=5
+    outlet: RRI.co.id
+    country: ID
+    language: id
+    source: gn-id-ai-regulation
+    score: 5
+    terms:
+      - kecerdasan artifisial
+      - ethics
+    status: new
+  - id: 441d738c90
+    found: "2026-11-05"
+    published: "2026-11-02"
+    title: MA Gelar Pelatihan Kecerdasan Artifisial bagi 614 Aparatur Peradilan, Bahas Etika hingga Ancaman Kejahatan Digital
+    url: https://news.google.com/rss/articles/CBMieEFVX3lxTFBlR0g3bkR2LWlqZEtnUm5ZTkRJaWJzLW4tdllXUmlZa0QyRmJFLTM0dkR3Z3hkeVlFakt0TWJKai1saHA1Y2FIeE1zaXZUN3ljbzdRR2lFVHRGUVhwZHFUTkxsb0Y5NWtyMjMtUEhCeFV3Q2ZtVVpPag?oc=5
+    outlet: Monitor Pos
+    country: ID
+    language: id
+    source: gn-id-ai-regulation
+    score: 5
+    terms:
+      - kecerdasan artifisial
+      - etika
+    status: new
+  - id: f65e5e4ca0
+    found: "2026-11-05"
+    published: "2026-10-22"
+    title: Agar AI Tak Jadi Jebakan Lapangan Kerja, Pemerintah Kawal Tata Kelola AI dan Data Nasional
+    url: https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQ1BHVGZjZmplR1V2QW10RXFVODNZbkZRTjVuYnoycS1NV0tpeVR2ZHRoYlNfckJfTG9abjZmMHEtOFNvWENrMm9WZ1Y5a2NoeDZrdEZSZG85Tl9TVXBoSXNVQk96WnlQYmpXeVF4NlNQU1ZNNkViNi13eG12aTJEMWpBa21JUjR3Vk1veG1sVFpzeVpnRTg3TWZsNkM2OUFxcTBrNFdiVHBMWGpoMnVNR3R6UDNmVmJ1V2RzbHpUR2ZDODJtUW5QRG9XMV9DbzVtbEd5ZjNpVGQ4QTFWRDBQUkkwNA?oc=5
+    outlet: Komdigi
+    country: ID
+    language: id
+    source: gn-id-komdigi-ai
+    score: 5
+    terms:
+      - AI
+      - tata kelola
+      - komdigi
+    status: new
+  - id: 2e65e560e5
+    found: "2026-11-05"
+    published: "2026-11-03"
+    title: "China-ASEAN International Workshop on Artificial Intelligence and Digital Education: Promoting Educational Innovation and Regional Collaboration"
+    url: https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdEtXdmVqZEtDekZIemQycmxDNFhJU2plbFFEcm9MYldJUEc4LWZuM1ZQUzRUNXV3aXpBLWxjd09yb2RKZjlSazFMem5fNjFTMEh0OXZXakV4SklER3plNk5mWEtadHFTeng0VHljSTBadVFEVDdTeHcyMkV6eW1HbVNWMDlkdkhKbFVyV1h4Q013MzAxX1h1MXhlSTlNbDVhb20wdEpJQzFUMnhDem9Ma2xtWUJFdGVpQmR3XzhSYkVXS0k4ZjB1a1VqU1hCTWxXRnpUUzhTbDdQX2lsaVZiYw?oc=5
+    outlet: Vietnam.vn
+    country: ASEAN
+    language: en
+    source: gn-asean-ai
+    score: 4
+    terms:
+      - artificial intelligence
+      - ASEAN
+    status: new
+  - id: 4cbe247b85
+    found: "2026-11-05"
+    published: "2026-10-20"
+    title: "AI Governance in ASEAN: Innovation, Digital Trust & Inclusive Growth"
+    url: https://news.google.com/rss/articles/CBMilgFBVV95cUxPN3B3bGFKS2NPblVHX2w2VzExM2FpcVk5YllUeVVYTVBxNWVQTDQ3LUZUcWQyU0tmcTU4dnBBb1pZNU9uV01XVGJJcWF5WlpfdmcwXzdFTGQwaU9NNVVlOW14UXpQdV9iSHk0R1RYVC1WYWQ5Zm1hSWJWd280NUpmaTJCbW9BanRpbHR5bjRsOWVHZi1LekE?oc=5
+    outlet: US-ASEAN Business Council
+    country: ASEAN
+    language: en
+    source: gn-asean-ai
+    score: 4
+    terms:
+      - AI
+      - governance
+      - ASEAN
+    status: new
+  - id: a6f633629b
+    found: "2026-11-05"
+    published: "2026-11-03"
+    title: Lembaga Pelindungan Data Pribadi Perkuat Pengawasan dan Implementasi UU PDP
+    url: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWGpqcWduYkR5WGwza2IyZ1Q2VXoxekpVdmJXSk1adlV1dFhhSU9OVXRTQlNMaTRNanVTZjhDcnJXdWJRZTRRa2p4WTlKdzd6UTM3a1FYTEh5TzBieTY0OUZzZmZOc1VYM1h3dGJLZE9NNm1pTEdfQnpHdjdGMHFFaEYyZ0lJRkp4NkxoampfOGptZmZ6SUNYSURhcUZmRDgyTkRPOTJmMXFQVy0ydDFxNWpsSjh0UUk4?oc=5
+    outlet: MetroTVNews.com
+    country: ID
+    language: id
+    source: gn-id-pdp
+    score: 4
+    terms:
+      - pelindungan data pribadi
+      - UU PDP
+    instrument: uu-pdp-27-2022
+    status: new
   - id: d1c3a1f510
     found: "2026-11-02"
     published: "2026-10-30"
