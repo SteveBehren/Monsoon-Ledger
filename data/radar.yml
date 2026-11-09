@@ -1,7 +1,65 @@
 # Written by npm run scan. Leads are unreviewed: they are not entries and not verified.
 # To review one, set status to reviewed, promoted or dismissed. Promote by writing an entry.
-updated: "2026-11-05T03:29:09Z"
+updated: "2026-11-09T02:39:55Z"
 leads:
+  - id: 6341fcb6fe
+    found: "2026-11-09"
+    published: "2026-10-30"
+    title: RI Atur AI Sesuai Risiko, Komdigi Beberkan Isi Regulasinya
+    url: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUndpb2NmUHBWRFIxTnFCU29Ca2xZcThOOXZYcVJ4WE5KQWZ4Z0prZ2JCQjBid0ZIb0kzcTVDQlo4Q0p1eEZ0Ry1SVGxBaVJ2eUVfME9aN0Q5XzBvR3BCN3A1bEdHRU1ENVVYdTdNeUxjbjNnbHhoeWlNcFNxQUFveHg5eXBZYzNDbVNJMUZuaFR6S2FUbTNQV2xsQkRGNFgxWXoySE80bTBYVVY5Y1psZ1dSY0Zad1da?oc=5
+    outlet: CNBC Indonesia
+    country: ID
+    language: id
+    source: gn-id-ai-regulation
+    score: 5
+    terms:
+      - AI
+      - regulasi
+      - komdigi
+    status: new
+  - id: 077b661a23
+    found: "2026-11-09"
+    published: "2026-11-08"
+    title: 108 GURU DI BANJARNEGARA DIBEKALI KECERDASAN ARTIFISIAL, AI MULAI MASUK RUANG KELAS
+    url: https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMzJySkVsRWdLczNSUzBJVXdVX2V6US10ZVNvNzFmUElRcjhSWVVIczhoZ21pdWpCWUpZdjA5U1NtWmxQWmI2ZVhBcEdRaFhhajk2Sm1YMlhDcnRzTUEtcG5pN2NQOTB1ZDN1MHltbTV6N2RjbWJXVmMyX2ZmbVljelVnR1N1N2NxZURB?oc=5
+    outlet: Warta Indonesia News
+    country: ID
+    language: id
+    source: gn-id-ai-regulation
+    score: 4
+    terms:
+      - kecerdasan artifisial
+      - AI
+    status: new
+  - id: 4598b1ab42
+    found: "2026-11-09"
+    published: "2026-11-07"
+    title: Merdeka AI, Strategi Lintasarta Bangun Infrastruktur Kecerdasan Artifisial Nasional
+    url: https://news.google.com/rss/articles/CBMiwAFBVV95cUxNODVxSE10dTBPc2ZjelFDZzNDZ01PTE5VRzh6UzRYSGd1ZnpscnV0OXFWY3dMS0lwTTVHTXJvc08wR0N4djJSWWNVOExqZUxCdXZmdTZNV3d6ZHNFaEpROUhKbUJnVEZQdi1qeDVOVU5QMjlnZlROTnRWenVCZWxXd0pXUW42RlF0TVNrZ05nVm52bEMydzF1LXlINUYtVWx0c016aTk0ajlXN1czZW83M1hMOXBWekYzR1BSSndoa1fSAcABQVVfeXFMTTg1cUhNdHUwT3NmY3pRQ2czQ2dNT0xOVUc4elM0WEhndWZ6bHJ1dDlxVmN3TEtJcE01R01yb3NPMEdDeHYyUlljVThMamVMQnV2ZnU2TVd3emRzRWhKUTlISm1CZ1RGUHYtang1TlVOUDI5Z2ZUTk50Vnp1QmVsV3dKV1FuNkZRdE1Ta2dOZ1ZudmxDMncxdS15SDVGLVVsdHNNemk5NGo5VzdXM2VvNzNYTDlwVnpGM0dQUkp3aGtX?oc=5
+    outlet: Koran Jakarta ®
+    country: ID
+    language: id
+    source: gn-id-ai-regulation
+    score: 4
+    terms:
+      - kecerdasan artifisial
+      - AI
+    status: new
+  - id: a7e15afc9d
+    found: "2026-11-09"
+    published: "2026-10-30"
+    title: Refine the AI ​​governance framework to strike a balance between innovation and risk control.
+    url: https://news.google.com/rss/articles/CBMipwFBVV95cUxORGlxNW93bUxPYjljSHdPN1NuMnNnSm95LUNXUzc4Y1RnM1JLNXY4eXBkb0F3cmt1NEdvTGRoRGJ6Nl96MENuM243ZXJOX0d1MU9rN0FiRVNuSU1ycHd5UF85X0JBa3p6TlBXd0pfYmVXRVBaOTdqUTJNMDhzQkRmejFPek9tMi1RMzBzbmhkdnB2OXlBdzBVM1h3Z2wzc2htTm82Q0Rvcw?oc=5
+    outlet: Vietnam.vn
+    country: VN
+    language: en
+    source: gn-vn-ai
+    score: 4
+    terms:
+      - AI
+      - governance
+      - framework
+    status: new
   - id: 23759911fa
     found: "2026-11-05"
     published: "2026-10-30"

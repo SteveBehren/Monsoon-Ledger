@@ -182,6 +182,8 @@
   key: actlegal
   title: "act legal (24 November 2025). \"Serious incident reporting under the EU AI Act.\""
   url: https://actlegal.com/publications/serious-incident-reporting-under-the-eu-ai-act
+  archive_url: https://web.archive.org/web/20261029023256/https://actlegal.com/publications/serious-incident-reporting-under-the-eu-ai-act
+  archived_at: 2026-10-29
   accessed: 2026-10-26
 - n: 27
   key: seoul
@@ -194,6 +196,8 @@
   key: network
   title: "NIST (20 November 2024). Mission Statement, International Network of AI Safety Institutes."
   url: https://www.nist.gov/document/international-network-ai-safety-institutes-mission-statement
+  archive_url: https://web.archive.org/web/20261029023022/https://www.nist.gov/system/files/documents/2024/11/20/Mission%20Statement%20-%20International%20Network%20of%20AISIs.pdf
+  archived_at: 2026-10-29
   accessed: 2026-10-26
 - n: 29
   key: asean
@@ -283,11 +287,15 @@
   key: mkri
   title: "Mahkamah Konstitusi RI (4 August 2026). \"Keterangan Ahli Terlambat, Sidang Uji UU PDP Ditunda.\" Case 236/PUU-XXIV/2026."
   url: https://www.mkri.id/berita/keterangan-ahli-terlambat,-sidang-uji-uu-pdp-ditunda-25526
+  archive_url: https://web.archive.org/web/20261029023016/https://www.mkri.id/berita/keterangan-ahli-terlambat,-sidang-uji-uu-pdp-ditunda-25526
+  archived_at: 2026-10-29
   accessed: 2026-10-26
 - n: 42
   key: rajah_gr33
   title: "Rajah & Tann Asia (3 September 2026). \"PDP Law Updates: The PDP Implementing Regulation Is Out, and It Clarifies Some Key Questions Under Indonesia's PDP Law.\""
   url: https://www.rajahtannasia.com/viewpoints/pdp-law-updates-the-pdp-implementing-regulation-is-out-and-it-clarifies-some-key-questions-under-indonesias-pdp-law/
+  archive_url: https://web.archive.org/web/20261029023016/https://www.rajahtannasia.com/viewpoints/pdp-law-updates-the-pdp-implementing-regulation-is-out-and-it-clarifies-some-key-questions-under-indonesias-pdp-law/
+  archived_at: 2026-10-29
   accessed: 2026-10-26
 - n: 43
   key: register_pdns
@@ -314,6 +322,8 @@
   key: rmol_kks
   title: "RMOL (6 July 2026). \"RUU Keamanan Siber Harus Sinkronkan Peran BSSN, Komdigi, Polri, dan TNI.\""
   url: https://rmol.id/politik/read/2026/07/06/713365/ruu-keamanan-siber-harus-sinkronkan-peran-bssn-komdigi-polri-dan-tni
+  archive_url: https://web.archive.org/web/20261029023017/https://rmol.id/politik/read/2026/07/06/713365/ruu-keamanan-siber-harus-sinkronkan-peran-bssn-komdigi-polri-dan-tni
+  archived_at: 2026-10-29
   accessed: 2026-10-26
 - n: 47
   key: p_2609
@@ -382,11 +392,15 @@
   key: mkri_27jul
   title: "Mahkamah Konstitusi RI (27 July 2026). \"Pembentukan Lembaga PDP Sedang Dibahas.\" Case 236/PUU-XXIV/2026."
   url: https://www.mkri.id/berita/pembentukan-lembaga-pdp-sedang-dibahas-25476
+  archive_url: https://web.archive.org/web/20261029023017/https://www.mkri.id/berita/pembentukan-lembaga-pdp-sedang-dibahas-25476
+  archived_at: 2026-10-29
   accessed: 2026-10-26
 - n: 57
   key: mkri_tracking
   title: "Mahkamah Konstitusi RI. Case tracking record, 236/PUU-XXIV/2026."
   url: https://tracking.mkri.id/index.php?page=web.TrackPerkara&id=236/PUU-XXIV/2026
+  archive_url: https://web.archive.org/web/20261029023017/https://tracking.mkri.id/index.php?page=web.TrackPerkara&id=236%2FPUU-XXIV%2F2026
+  archived_at: 2026-10-29
   accessed: 2026-10-26
 - n: 58
   key: jdih_drafts

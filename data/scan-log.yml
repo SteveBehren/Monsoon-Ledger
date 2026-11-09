@@ -1,4 +1,14 @@
 # One row per scan, newest first. Written by npm run scan.
+- at: "2026-11-09T02:39:55Z"
+  mode: rules
+  sources_total: 14
+  sources_ok: 13
+  sources_failed:
+    - peraturan-go-id
+  items_read: 231
+  items_relevant: 30
+  new_leads: 4
+  triaged: 0
 - at: "2026-11-05T03:29:09Z"
   mode: rules
   sources_total: 14
