@@ -1,7 +1,108 @@
 # Written by npm run scan. Leads are unreviewed: they are not entries and not verified.
 # To review one, set status to reviewed, promoted or dismissed. Promote by writing an entry.
-updated: "2026-11-09T02:39:55Z"
+updated: "2026-11-12T03:48:24Z"
 leads:
+  - id: 2e04db431c
+    found: "2026-11-12"
+    published: "2026-11-10"
+    title: Ketika Mahasiswa Mendelegasikan Proses Berpikir kepada AI, Tim Peneliti UM Soroti Pentingnya Regulasi Metakognitif
+    url: https://news.google.com/rss/articles/CBMie0FVX3lxTE9TRjQ5ekZxVlVpc1F4R3E2WGZZVkdIN083LTQ5dFJzRGo2S3JzVWZzQ0NCMU8xNEhMbkROaWJaNFljbllHSlFucnc5UlpDQ0tpLVQ4SXYxVU5rUVV6WlVtVnVCVFVfeE1OaDRORXhObVBWc0dibXo2d1d0VQ?oc=5
+    outlet: JatimSatuNews
+    country: ID
+    language: id
+    source: gn-id-ai-regulation
+    score: 5
+    terms:
+      - AI
+      - regulasi
+      - etika
+    status: new
+  - id: 81b083fe63
+    found: "2026-11-12"
+    published: "2026-11-05"
+    title: CelcomDigi Responsible Business Day 2026 Highlights AI Governance And Customer Data Protection
+    url: https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX2hXWnRzcEV6RXdlaEs0ZjVzby1MZjI5THZuQXYyNXdJT2g2SzRlR3lzcy1vWUF6QjBLRzIzNk5sbnRoZ0ZFUWs2YTk2T21LbWtIb21kWkVJOWx4R2F4Uk9MRXV5UkNzSkxBVHVZNmZzbmhTS1F2ZkFCdndfN2FscWdmRVdTWEZhandN?oc=5
+    outlet: Pokde.Net
+    country: MY
+    language: en
+    source: gn-my-ai
+    score: 5
+    terms:
+      - AI
+      - governance
+      - data protection
+    status: new
+  - id: a007ea0625
+    found: "2026-11-12"
+    published: "2026-11-11"
+    title: Artificial Intelligence to take centerstage at 49th ASEAN Summit
+    url: https://news.google.com/rss/articles/CBMiugFBVV95cUxOYzdQdy1RYXRkeFdKaEV5RHQ2bjdPNzBQdEQtUWRpVTFuazZrUG1pOEFkNEJaRzBWczY3S2Z1a1RHUFBKYWZDUS1DV3lHQVBMcVA1YVJjSkJkWnUwak5tR0hubkRPMUZ5UkhzTmItYnFwU1lrNEdKNEJ1eWxYNkdvUFl1MHBIWWRWNTAzLXVULXFMM3NWY1BWVUh5V0V1dG5kb0hzell0aWNGSnVRN083d19maG1kMDhHeHc?oc=5
+    outlet: ABS-CBN
+    country: ASEAN
+    language: en
+    source: gn-asean-ai
+    score: 4
+    terms:
+      - artificial intelligence
+      - ASEAN
+    status: new
+  - id: ae507b1237
+    found: "2026-11-12"
+    published: "2026-11-11"
+    title: Researchers Validate Consumer-Centric AI Governance Framework for Indonesia
+    url: https://news.google.com/rss/articles/CBMiogFBVV95cUxQR2x4MVJjdTFPb2ZzX0V2dHhQR3hBVllrbmpIUV9zNHdLR1FZSkpSUUIzWDR6R24xenZtekJpd21vMFNKV2JKc0VEdEgtd29QYUZxZThUWHctRVBFcmZhVEFBNl9hSHpKajZYVUVyT2hFd0I3SmRUVXdxOHpGaWNuWHVNNnZrRVBMT2JNZlJBMVpkMDQ4QVBEVG4yeW5nb1o1anc?oc=5
+    outlet: Bioengineer.org
+    country: ID
+    language: en
+    source: gn-en-indonesia-ai
+    score: 4
+    terms:
+      - AI
+      - governance
+      - framework
+    status: new
+  - id: cfac0ac055
+    found: "2026-11-12"
+    published: "2026-11-11"
+    title: "Rappler. . Lea Salonga: AI can’t replace real people on stage WATCH: When asked how artificial intelligence (AI) has affected the theater scene, Broadway star Lea Salonga says AI can only \"help in automation\" but theater will always have “real people standi"
+    url: https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUmQtMkNhZzY4b3dfbkZrQ19NWkJ0WE5zVFdBNHpjSFlncDR0MVVaSmlPUFlLQVlHZmJEQ0MtOUl3WUd0Mm02OXBFN2pZeEt5R3I1T3pFOElvNjFvS2I0cmo2S3Btc0ltRG9Xd1FxcEtydTJGTU1aNmY1bS1HaFBic0NkUGZDMXczOXdFLUtQTXYwZXd4SGtyMnM0V01WcGR5MjJuNEI4dVdmbllncnRyY3JIbGItU2lNYTUwVkdRcTI4MDBuMjZGSGhwNFE2ZFR1YUl4TEI1c09YemdM?oc=5
+    outlet: Facebook
+    country: ASEAN
+    language: en
+    source: gn-asean-ai
+    score: 4
+    terms:
+      - artificial intelligence
+      - AI
+    status: new
+  - id: d3c214fbc8
+    found: "2026-11-12"
+    published: "2026-11-11"
+    title: Artificial intelligence is expected to take centerstage in discussions at the upcoming ASEAN Summit, as Southeast Asian leaders seek to strengthen regional cooperation amid global uncertainties. | via ANC 24/7 Link to full story in the comments section.
+    url: https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaUMteTFIRjQwUVJzRzRsTlVXTnEzT1JxVE95ZzlfQmdtb3NpTHBrUGxiTWdkYkVaV0lLZE8tcEgtVjgxY0I2MmF2a29IVVJjQ1pqdVZEZ1VDRlNqckpQalpUNnVjMzVvY2xmY29SNVVXOGRlRnNWYlQyUGFJSkpWNFdJUm9sSFZjbXZBZ1AwUDZSanQ4TXFQUFZ6WjJMYkN6N2ptenN0MThVcml2Mlk2ODdVc1k4WjNERkkzN0RUS01zMWE0M2hGREtaSVdVbmlFbGRXNE5Udw?oc=5
+    outlet: Facebook
+    country: ASEAN
+    language: en
+    source: gn-asean-ai
+    score: 4
+    terms:
+      - artificial intelligence
+      - ASEAN
+    status: new
+  - id: ec6ed90f42
+    found: "2026-11-12"
+    published: "2026-11-11"
+    title: "Participating in ASLOM 25: Vietnam demonstrates proactiveness and creativity by proposing a new initiative on Artificial Intelligence and Digital Data in Law."
+    url: https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaUc1OHBUalh1RmZNTzRIZFhJRWlkUk0wcS0wbVRuRkdhdExFalY1ZVBNZXpMd3J5ZTFibVYxbDRZTzhjdEY1czk3RHlKVEttd1dYYnRSb2xDX1p3ZHJJaEVQMzljR2xCZ0lndTEyQmR1aTNwOER2Rlhoa1NLdF9zdEQwZmd3QU53dW1HNHF5X1hhRnFsLWh0V3BpbU5vZVhYaEhGbUJ3NHJZbjNOdHVfQ3lxVkoyM2ZfbkNTODBMYjNxdXM1MDVvODRyV3ZvdkN6SmFQbFdwclc5ZzZlSEVRODJyOA?oc=5
+    outlet: Vietnam.vn
+    country: VN
+    language: en
+    source: gn-asean-ai
+    score: 4
+    terms:
+      - artificial intelligence
+      - law
+    status: new
   - id: 6341fcb6fe
     found: "2026-11-09"
     published: "2026-10-30"
